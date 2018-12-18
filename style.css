@@ -1,15 +1,31 @@
  
- html,body {font-family: 'Roboto', sans-serif; padding: 2pt;}
+ 
+ html,body {
+     font-family: 'Roboto', sans-serif;
+    padding: 2pt; 
+    padding-top: 0pt;
+}
+    
 
 
  .gal1, .gal2, .gal3 {
     padding: 3pt; bottom: 0pt
 }
 
+#menu1, #menu2{
+    background-color: black;
+    padding: 7pt;
+}
+
+#menutext, #mptext, #lztext, #dbtext{
+    color: white;
+    padding: 4pt;
+}
 
 img {
      position: relative;
      top: 12pt;
+     padding: 4pt;
  }
 
  h1{font-size: 24pt; 
@@ -24,7 +40,7 @@ button{
     font-size: 12pt;
 }
 
-section{
+#sec1{
     background-color: #faf4f6;
     padding: 5pt
 }
