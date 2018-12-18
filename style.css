@@ -1,0 +1,49 @@
+ 
+ html,body {font-family: 'Roboto', sans-serif; padding: 2pt;}
+
+
+ .gal1, .gal2, .gal3 {
+    padding: 3pt; bottom: 0pt
+}
+
+
+img {
+     position: relative;
+     top: 12pt;
+ }
+
+ h1{font-size: 24pt; 
+    position: relative;
+    left: 2%;
+    top: 5pt;
+}
+
+
+button{
+    font-family:inherit;
+    font-size: 12pt;
+}
+
+section{
+    background-color: #faf4f6;
+    padding: 5pt
+}
+
+ h2{font-size: 19pt;
+    background-color: #f1e0e4;
+    padding: 10pt;
+    position: relative;
+    top: 0pt
+}
+
+ h3{font-size: 17pt;}
+
+ p{font-family: 'Roboto', sans-serif;  size: 14pt;}
+
+ table {border-spacing: 10pt 0pt;}
+
+ td {vertical-align: top;}
+ 
+ 
+ .b1{font-family: 'Roboto', sans-serif; size: 14pt;}
+
