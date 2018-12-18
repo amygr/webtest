@@ -17,6 +17,10 @@
     padding: 7pt;
 }
 
+#marq{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40pt
+}
 #menutext, #mptext, #lztext, #dbtext{
     color: white;
     padding: 4pt;
